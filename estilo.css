@@ -1,0 +1,117 @@
+
+ #horario{
+    background-color:rgb(255, 100, 126);
+    color:white
+ }
+ #dias{
+   background-color: rgb(83, 201, 255);
+   color: white;
+ }
+ #horas{
+   background-color: orange;
+ }
+ #info{
+   background-color: #00f7ff;
+ }
+#mates{
+   background-color: #0000ff;
+   color: white;
+}
+#bio{
+   background-color: lime;
+}
+#Patio{
+   text-align: center;
+   font-weight:bold;
+   background-color:orange;
+   color: white;
+}
+#EF{
+   background-color: purple;
+   color: white;
+}
+#caste{
+   background-color: red;
+}
+#valores{
+   background-color: coral;
+}
+#Historia{
+   background-color: rgb(7, 204, 56);
+   color: white;
+}
+#Inglés{
+   background-color: yellow;
+}
+#teatro{
+   background-color: cornflowerblue;
+}
+#valen{
+   background-color: rgb(178, 196, 255);
+}
+#física{
+   background-color: rgb(205, 152, 255);
+}
+#tutoria{
+   background-color: pink;
+}
+#table2{
+   border-collapse: collapse;
+}
+#table2 td, #table2 th{
+   border: 1px solid black;
+}
+#table1{
+   border-collapse: collapse;
+   margin: 0 auto;
+}
+#table1 td, #table1 th{
+   border: 1px solid white;
+}
+#table1 #color-info{
+   background-color:#00f7ff ;
+   color: #00f7ff;
+}
+#table1 #color-mates{
+   background-color:#0000ff;
+   color: #0000ff;
+}
+#table1 #color-bio{
+   background-color: lime;
+}
+#table1 #color-EF{
+   background-color:purple;
+   color: purple;
+}
+#table1 #color-caste{
+   background-color: red;
+   color: red;
+}
+#table1 #color-valores{
+   background-color: coral;
+   color: coral;
+}
+#table1 #color-fyq{
+   background-color:rgb(205, 152, 255) ;
+   color: rgb(205, 152, 255);
+}
+#table1 #color-historia{
+   background-color:rgb(7, 204, 56) ;
+   color: rgb(7, 204, 56);
+}
+#table1 #color-inglés{
+   background-color: yellow;
+   color: yellow;
+}
+#table1 #color-teatro{
+   background-color:cornflowerblue ;
+   color: cornflowerblue;
+}
+#table1 #color-valen{
+   background-color: rgb(178, 196, 255);
+   color: rgb(178, 196, 255);
+}
+#table1 #color-tutoria{
+   background-color:pink ;
+   color: pink;
+}
